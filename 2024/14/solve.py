@@ -42,6 +42,7 @@ for robot in robots:
 print(score[0] * score[1] * score[2] * score[3])
 
 i = 101
+# todo add the score function
 max_score = 300
 while i < 10000:
     for robot in robots:
